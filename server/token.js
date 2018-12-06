@@ -1,0 +1,4 @@
+module.exports ={
+    oAuthToken : 'xoxp-485754832736-486692652389-486497960738-6f0cfea96018aa9b633e57b19b0d241c',
+    
+}
